@@ -4,6 +4,11 @@ A brand new default theme for [Hexo].
 
 - [Preview](http://hexo.io/hexo-theme-landscape/)
 
+## Multilanguage Version
+
+This is the branch for the multilanguage version.
+Use this branch with the [hexo-multilanguage-example](https://github.com/jkuetemeier/hexo-multilanguage-example).
+
 ## Installation
 
 ### Install

@@ -1,10 +1,24 @@
 {
-  "name": "hexo-site",
+  "name": "hexo-multilanguage-example",
   "version": "2.8.3",
-  "private": true,
+  "description": "This is an example using HEXO (http://hexo.io) to generate a static multilanguage site",
+  "private": false,
+  "license": "MIT",
+  "repository": "https://github.com/jkuetemeier/hexo-multilanguage-example.git",
+  "homepage": "https://github.com/jkuetemeier/hexo-multilanguage-example",
+  "author": {
+    "name": "Jörg Kütemeier",
+    "email": "jkuetemeier@jkuetemeier.com",
+    "url": "https://jkuetemeier.com"
+  },
+  "bugs": {
+    "url": "http://github.com/jkuetemeier/hexo-multilanguage-example/issues"
+  },
   "dependencies": {
+    "hexo-admin-plugin": "^0.1.2",
+    "hexo-plugin-multilanguage": "jkuetemeier/hexo-plugin-multilanguage",
     "hexo-renderer-ejs": "*",
-    "hexo-renderer-stylus": "*",
-    "hexo-renderer-marked": "*"
+    "hexo-renderer-marked": "*",
+    "hexo-renderer-stylus": "*"
   }
 }
