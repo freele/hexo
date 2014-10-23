@@ -2,8 +2,8 @@
 menu:
   Home: /
   Archives: /archives
-  German: /de/deutsch.html
-  English: /english.html
+  # Русский: /de/deutsch.html
+  # English: /english.html
 rss: /atom.xml
 
 # Content

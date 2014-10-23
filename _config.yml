@@ -10,7 +10,7 @@ author: Jon Doe
 email:
 language:
   - en
-  - de
+  - ru
 
 language_detect_in_path: true
 language_detect_first_level: true
